@@ -66,6 +66,7 @@ I decided to go with stacks to solve this problem.
 
 ### Explanation
 Assume, string is "{()}":
+
 Step 1: 
 ```
 Stack : Empty
