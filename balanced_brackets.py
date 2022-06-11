@@ -48,8 +48,3 @@ def is_balanced(s):
         # so the string is balanced
         balanced = "YES"
         return balanced
-
-
-if __name__ == '__main__':
-    print(is_balanced("{[(])}"))
-    print(is_balanced("{([])}()"))
