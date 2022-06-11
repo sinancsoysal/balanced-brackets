@@ -1,5 +1,5 @@
 # Balanced Brackets
-Python implementation of balanced brackets challenge proposed to TGA by Sinan Can Soysal. 
+Python implementation of balanced brackets challenge. 
 
 ## Challenge Description
 There are 3 kinds of **Brackets**: **[] {} ()**. Given a string of characters, check if all the brackets in the string are balanced. 
